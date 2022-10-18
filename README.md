@@ -1,4 +1,4 @@
-# super-scripts
+# Super Scripts
 Welcome to Super Scripts, a collection of productivity scripts that you may find useful :)
 
 Currently, these scripts are only supported on mac. Though this repository is public, there are many components that need to be changed on installation. I'm always happy to help if you would like to try these out though, contact me at lmaksin@umich.edu

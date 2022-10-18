@@ -13,16 +13,16 @@
     </array>
 
     <key>WorkingDirectory</key>
-    <string>/Users/leonmaksin/Documents/bash-scripts</string>
+    <string>/Users/leonmaksin/Documents/super-scripts/close-apps-daemon</string>
 
     <key>StartInterval</key>
     <integer>60</integer>
 
     <key>StandardErrorPath</key>
-    <string>/Users/leonmaksin/Documents/bash-scripts/close-apps-daemon/error.log</string>
+    <string>/Users/leonmaksin/Documents/super-scripts/close-apps-daemon/error.log</string>
 
     <key>StandardOutPath</key>
-    <string>/Users/leonmaksin/Documents/bash-scripts/close-apps-daemon/out.log</string>
+    <string>/Users/leonmaksin/Documents/super-scripts/close-apps-daemon/out.log</string>
 
     <key>RunAtLoad</key>
     <true/>
